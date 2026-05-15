@@ -1,6 +1,7 @@
 {
   "pages": {
     "/_not-found/page": [
+      "static/chunks/[root-of-the-server]__56523d28._.css",
       "static/chunks/4409a_next_dist_fbe90c93._.js",
       "static/chunks/63fe4_S2_Frontend_Praxisprojekt3_NextJs_nextjs-dashboard_app_layout_tsx_e54feaad._.js",
       "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_945dec4a._.js",

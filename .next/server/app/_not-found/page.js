@@ -1,7 +1,7 @@
 var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
 R.c("server/chunks/ssr/4409a_next_dist_3018f388._.js")
 R.c("server/chunks/ssr/[root-of-the-server]__7f148858._.js")
-R.c("server/chunks/ssr/Desktop_Master_lokal_S2_Frontend_Praxisprojekt3_NextJs_nextjs-dashboard_6fffb993._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__8d533223._.js")
 R.c("server/chunks/ssr/4409a_next_dist_client_components_0ad289ba._.js")
 R.c("server/chunks/ssr/4409a_next_dist_client_components_builtin_forbidden_22ccb386.js")
 R.c("server/chunks/ssr/4409a_next_dist_2d2177cb._.js")
