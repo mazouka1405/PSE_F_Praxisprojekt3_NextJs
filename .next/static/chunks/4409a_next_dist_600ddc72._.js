@@ -724,7 +724,7 @@ _export(exports, {
     }
 });
 const _interop_require_default = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/@swc/helpers/cjs/_interop_require_default.cjs [client] (ecmascript)");
-const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/index.js [client] (ecmascript)"));
+const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/index.js [client] (ecmascript)"));
 const _iserror = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/next/dist/lib/is-error.js [client] (ecmascript)"));
 const ownerStacks = new WeakMap();
 function getOwnerStack(error) {
@@ -1105,7 +1105,7 @@ Object.defineProperty(exports, "PagesDevOverlayErrorBoundary", {
     }
 });
 const _interop_require_default = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/@swc/helpers/cjs/_interop_require_default.cjs [client] (ecmascript)");
-const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/index.js [client] (ecmascript)"));
+const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/index.js [client] (ecmascript)"));
 class PagesDevOverlayErrorBoundary extends _react.default.PureComponent {
     static getDerivedStateFromError(error) {
         return {
@@ -1683,8 +1683,8 @@ _export(exports, {
     }
 });
 const _interop_require_default = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/@swc/helpers/cjs/_interop_require_default.cjs [client] (ecmascript)");
-const _jsxruntime = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/jsx-runtime.js [client] (ecmascript)");
-const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/index.js [client] (ecmascript)"));
+const _jsxruntime = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/jsx-runtime.js [client] (ecmascript)");
+const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/index.js [client] (ecmascript)"));
 const _nextdevtools = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/next/dist/compiled/next-devtools/index.js [client] (ecmascript)");
 const _hydrationerrorstate = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/next/dist/next-devtools/userspace/pages/hydration-error-state.js [client] (ecmascript)");
 const _router = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/next/dist/client/router.js [client] (ecmascript)");
@@ -1962,8 +1962,8 @@ Object.defineProperty(exports, "default", {
     }
 });
 const _interop_require_default = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/@swc/helpers/cjs/_interop_require_default.cjs [client] (ecmascript)");
-const _jsxruntime = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/jsx-runtime.js [client] (ecmascript)");
-const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/index.js [client] (ecmascript)"));
+const _jsxruntime = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/jsx-runtime.js [client] (ecmascript)");
+const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/index.js [client] (ecmascript)"));
 const _head = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/next/dist/shared/lib/head.js [client] (ecmascript)"));
 const statusCodes = {
     400: 'Bad Request',

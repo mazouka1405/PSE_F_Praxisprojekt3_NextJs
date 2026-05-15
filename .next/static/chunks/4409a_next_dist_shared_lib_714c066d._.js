@@ -14,7 +14,7 @@ Object.defineProperty(exports, "HeadManagerContext", {
     }
 });
 const _interop_require_default = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/@swc/helpers/cjs/_interop_require_default.cjs [client] (ecmascript)");
-const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/index.js [client] (ecmascript)"));
+const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/index.js [client] (ecmascript)"));
 const HeadManagerContext = _react.default.createContext({});
 if ("TURBOPACK compile-time truthy", 1) {
     HeadManagerContext.displayName = 'HeadManagerContext';
@@ -85,7 +85,7 @@ Object.defineProperty(exports, "RouterContext", {
     }
 });
 const _interop_require_default = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/@swc/helpers/cjs/_interop_require_default.cjs [client] (ecmascript)");
-const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/index.js [client] (ecmascript)"));
+const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/index.js [client] (ecmascript)"));
 const RouterContext = _react.default.createContext(null);
 if ("TURBOPACK compile-time truthy", 1) {
     RouterContext.displayName = 'RouterContext';
@@ -4731,7 +4731,7 @@ Object.defineProperty(exports, "ImageConfigContext", {
     }
 });
 const _interop_require_default = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/@swc/helpers/cjs/_interop_require_default.cjs [client] (ecmascript)");
-const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/index.js [client] (ecmascript)"));
+const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/index.js [client] (ecmascript)"));
 const _imageconfig = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/next/dist/shared/lib/image-config.js [client] (ecmascript)");
 const ImageConfigContext = _react.default.createContext(_imageconfig.imageConfigDefault);
 if ("TURBOPACK compile-time truthy", 1) {
@@ -4778,7 +4778,7 @@ _export(exports, {
     }
 });
 const _interop_require_default = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/@swc/helpers/cjs/_interop_require_default.cjs [client] (ecmascript)");
-const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/index.js [client] (ecmascript)"));
+const _react = /*#__PURE__*/ _interop_require_default._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/index.js [client] (ecmascript)"));
 const AppRouterContext = _react.default.createContext(null);
 const LayoutRouterContext = _react.default.createContext(null);
 const GlobalLayoutRouterContext = _react.default.createContext(null);
@@ -4822,7 +4822,7 @@ _export(exports, {
         return SearchParamsContext;
     }
 });
-const _react = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/index.js [client] (ecmascript)");
+const _react = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/index.js [client] (ecmascript)");
 const SearchParamsContext = (0, _react.createContext)(null);
 const PathnameContext = (0, _react.createContext)(null);
 const PathParamsContext = (0, _react.createContext)(null);
@@ -4883,8 +4883,8 @@ _export(exports, {
     }
 });
 const _interop_require_wildcard = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/@swc/helpers/cjs/_interop_require_wildcard.cjs [client] (ecmascript)");
-const _jsxruntime = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/jsx-runtime.js [client] (ecmascript)");
-const _react = /*#__PURE__*/ _interop_require_wildcard._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/.pnpm/react@19.2.0/node_modules/react/index.js [client] (ecmascript)"));
+const _jsxruntime = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/jsx-runtime.js [client] (ecmascript)");
+const _react = /*#__PURE__*/ _interop_require_wildcard._(__turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/react/index.js [client] (ecmascript)"));
 const _hooksclientcontextsharedruntime = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/next/dist/shared/lib/hooks-client-context.shared-runtime.js [client] (ecmascript)");
 const _utils = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/next/dist/shared/lib/router/utils/index.js [client] (ecmascript)");
 const _aspathtosearchparams = __turbopack_context__.r("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/node_modules/next/dist/shared/lib/router/utils/as-path-to-search-params.js [client] (ecmascript)");

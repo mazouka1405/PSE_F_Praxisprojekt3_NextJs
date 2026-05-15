@@ -1,6 +1,33 @@
 globalThis.__BUILD_MANIFEST = {
   "pages": {
-    "/_app": []
+    "/_app": [
+      "static/chunks/4409a_next_dist_compiled_next-devtools_index_cc26020e.js",
+      "static/chunks/4409a_next_dist_compiled_d57af53c._.js",
+      "static/chunks/4409a_next_dist_shared_lib_714c066d._.js",
+      "static/chunks/4409a_next_dist_client_3c018eda._.js",
+      "static/chunks/4409a_next_dist_a7a69b66._.js",
+      "static/chunks/4409a_next_app_36b148c1.js",
+      "static/chunks/[next]_entry_page-loader_ts_099c8042._.js",
+      "static/chunks/4409a_react-dom_e96f9a58._.js",
+      "static/chunks/4409a_5120a8b4._.js",
+      "static/chunks/[root-of-the-server]__1905d25f._.js",
+      "static/chunks/32aa8_lokal_S2_Frontend_Praxisprojekt3_NextJs_nextjs-dashboard_pages__app_2da965e7._.js",
+      "static/chunks/3da42_lokal_S2_Frontend_Praxisprojekt3_NextJs_nextjs-dashboard_pages__app_f0fa83a7._.js"
+    ],
+    "/_error": [
+      "static/chunks/4409a_next_dist_compiled_next-devtools_index_cc26020e.js",
+      "static/chunks/4409a_next_dist_compiled_d57af53c._.js",
+      "static/chunks/4409a_next_dist_shared_lib_21586948._.js",
+      "static/chunks/4409a_next_dist_client_3c018eda._.js",
+      "static/chunks/4409a_next_dist_600ddc72._.js",
+      "static/chunks/4409a_next_error_00f3cf07.js",
+      "static/chunks/[next]_entry_page-loader_ts_ac0505d4._.js",
+      "static/chunks/4409a_react-dom_e96f9a58._.js",
+      "static/chunks/4409a_5120a8b4._.js",
+      "static/chunks/[root-of-the-server]__46306113._.js",
+      "static/chunks/32aa8_lokal_S2_Frontend_Praxisprojekt3_NextJs_nextjs-dashboard_pages__error_2da965e7._.js",
+      "static/chunks/3da42_lokal_S2_Frontend_Praxisprojekt3_NextJs_nextjs-dashboard_pages__error_bb54017e._.js"
+    ]
   },
   "devFiles": [],
   "ampDevFiles": [],

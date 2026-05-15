@@ -10,6 +10,10 @@ __turbopack_context__.n(__turbopack_context__.i("[project]/Desktop/Master_lokal/
 
 __turbopack_context__.n(__turbopack_context__.i("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/app/dashboard/layout.tsx [app-rsc] (ecmascript)"));
 }),
+"[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/app/dashboard/loading.tsx [app-rsc] (ecmascript, Next.js Server Component)", ((__turbopack_context__) => {
+
+__turbopack_context__.n(__turbopack_context__.i("[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/app/dashboard/loading.tsx [app-rsc] (ecmascript)"));
+}),
 "[project]/Desktop/Master_lokal/S2_Frontend/Praxisprojekt3_NextJs/nextjs-dashboard/app/ui/dashboard/cards.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -824,4 +828,4 @@ module.exports = mod;
 }),
 ];
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__cbd4a6d0._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__b6e88a7e._.js.map

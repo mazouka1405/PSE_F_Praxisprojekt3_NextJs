@@ -8,8 +8,8 @@
   "static/chunks/4409a_next_dist_600ddc72._.js",
   "static/chunks/4409a_next_error_00f3cf07.js",
   "static/chunks/[next]_entry_page-loader_ts_ac0505d4._.js",
-  "static/chunks/a848c_react-dom_2e14c922._.js",
-  "static/chunks/4409a_8660eeee._.js",
+  "static/chunks/4409a_react-dom_e96f9a58._.js",
+  "static/chunks/4409a_5120a8b4._.js",
   "static/chunks/[root-of-the-server]__46306113._.js"
 ],
     source: "entry"
